@@ -1,4 +1,4 @@
-## # MC-CP Library
+## Torch-MC-CP
 
 This library is based on the original implementation of [MC-CP](https://github.com/team-daniel/MC-CP).
 
@@ -66,7 +66,7 @@ Regression
 CUDA_VISIBLE_DEVICES=1 
 ```
 
-##  Pipeline and optimizations
+##  Pipeline
 
 The whold work combines:
 
